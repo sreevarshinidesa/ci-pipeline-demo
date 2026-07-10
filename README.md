@@ -8,28 +8,28 @@ This project demonstrates a Continuous Integration (CI) pipeline using GitHub Ac
 
 ## Features
 
-* Automated CI pipeline using GitHub Actions
-* Triggered on every push to the `main` branch
-* Triggered on every pull request to the `main` branch
-* Automatic dependency installation
-* Build validation
-* ESLint code quality checks
-* Prettier formatting validation
-* Automated testing using Jest
-* Security scanning using `npm audit`
+- Automated CI pipeline using GitHub Actions
+- Triggered on every push to the `main` branch
+- Triggered on every pull request to the `main` branch
+- Automatic dependency installation
+- Build validation
+- ESLint code quality checks
+- Prettier formatting validation
+- Automated testing using Jest
+- Security scanning using `npm audit`
 
 ---
 
 ## Technologies Used
 
-* Node.js
-* Express.js
-* GitHub Actions
-* Jest
-* ESLint
-* Prettier
-* Supertest
-* npm
+- Node.js
+- Express.js
+- GitHub Actions
+- Jest
+- ESLint
+- Prettier
+- Supertest
+- npm
 
 ---
 
@@ -52,8 +52,8 @@ The GitHub Actions workflow performs the following steps automatically:
 
 The workflow executes automatically when:
 
-* Code is pushed to the `main` branch.
-* A pull request is opened or updated targeting the `main` branch.
+- Code is pushed to the `main` branch.
+- A pull request is opened or updated targeting the `main` branch.
 
 ---
 
@@ -84,9 +84,9 @@ ci-pipeline-demo/
 
 ### Prerequisites
 
-* Node.js
-* npm
-* Git
+- Node.js
+- npm
+- Git
 
 ### Installation
 
@@ -176,12 +176,12 @@ npm audit
 
 The GitHub Actions workflow automatically validates the project by:
 
-* Installing dependencies
-* Building the application
-* Running ESLint
-* Checking formatting with Prettier
-* Executing Jest test cases
-* Performing a security scan with `npm audit`
+- Installing dependencies
+- Building the application
+- Running ESLint
+- Checking formatting with Prettier
+- Executing Jest test cases
+- Performing a security scan with `npm audit`
 
 The workflow helps detect issues early and ensures code quality before changes are merged.
 
@@ -190,14 +190,16 @@ The workflow helps detect issues early and ensures code quality before changes a
 ## Screenshots
 
 ### GitHub Actions Workflow
+
 <img width="1497" height="286" alt="image" src="https://github.com/user-attachments/assets/09c065ef-bbdc-4f00-bd58-0e74ffd07772" />
 
-
 ### Workflow Execution
+
 <img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/8590dd17-cd17-44da-be2c-33e8fdd7f1ca" />
 
 Demo update
 ---
+
 # Continuous Integration Pipeline
 
 ## Overview
