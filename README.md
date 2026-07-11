@@ -198,8 +198,3 @@ The workflow helps detect issues early and ensures code quality before changes a
 <img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/8590dd17-cd17-44da-be2c-33e8fdd7f1ca" />
 
 Demo update
-
-
-
-
-
